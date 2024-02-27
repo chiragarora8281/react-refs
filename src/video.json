@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "city-timelapse",
+    "description": "A busy city that glows with life and activity can be quite an interesting subject to photograph. The movements of human life in and around a city create very dynamic images perfect for urban landscapes or even street photography.",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/city-timelapse.mp4",
+    "thumbUrl": "/src/videoSrc/cityTimeLapseThumbnail.jpg"
+  },
+  {
+    "id": 2,
+    "name": "skier",
+    "description": "One of a pair of long flat runners of plastic, metal, or wood that curve upward in front and may be attached to a boot for gliding or traveling over snow. The one who skis in snow",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/skier.mp4",
+    "thumbUrl": "/src/videoSrc/skierThumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "name": "snow forest",
+    "description": "It is distinguished from the dry climates by a function of annual temperature and precipitation (see formulas under steppe climate). The outstanding feature of these climates is the cold winters with at least a month of snow-covered ground.",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/snow-forest.mp4",
+    "thumbUrl": "/src/videoSrc/snowForestThumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "name": "surfers",
+    "description": "Surfing is a surface water sport in which an individual, a surfer (or two in tandem surfing), uses a board to ride on the forward section, or face, of a moving wave of water, which usually carries the surfer towards the shore.",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/surfers.mp4",
+    "thumbUrl": "/src/videoSrc/surferThumbnail.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mountains",
+    "description": "A mountain is a large natural rise of the Earth's surface that usually has a 'summit' (the name for a mountain's top, which can also be called a peak). It is usually steeper and taller than a hill.",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/mountains.mp4",
+    "thumbUrl": "/src/videoSrc/mountainThumbnail.webp"
+  },
+  {
+    "id": 6,
+    "name": "beach",
+    "description": "A beach is a narrow, gently sloping strip of land that lies along the edge of an ocean, lake, or river. Materials such as sand, pebbles, rocks, and seashell fragments cover beaches. Most beach materials are the products of weathering and erosion. Over many years, water and wind wear away at the land.",
+    "contentUrl": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/beach.mp4",
+    "thumbUrl": "/src/videoSrc/beachThumbnail.jpg"
+  }
+]
